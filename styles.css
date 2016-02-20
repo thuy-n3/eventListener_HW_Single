@@ -129,6 +129,7 @@ hr.q-divider{
   margin: 0 auto;
   overflow: hidden;
   padding: 0;
+  text-align: left;
 }
 
 #add-guest .guest {
